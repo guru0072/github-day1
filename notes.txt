@@ -7,3 +7,5 @@ commit discipline practice started
 second change: practicing small, focused commits.
 
 Third Change: each commit should be reviewable in isolation.
+
+This change is done from feature practice branch.
