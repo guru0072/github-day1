@@ -3,3 +3,5 @@ Git core workflow practice for day 1 on 19-dec-2025
 practicing the git diff command.
 
 commit discipline practice started
+
+second change: practicing small, focused commits.
