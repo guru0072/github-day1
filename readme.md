@@ -1,1 +1,1 @@
- Day 1
+Github Day 1
