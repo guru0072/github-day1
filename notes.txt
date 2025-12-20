@@ -15,3 +15,5 @@ practicing undo and recovery in Git.
 Temporary work: will stash this change.
 
 soft reset practice line.
+
+Mixed reset practice line.
