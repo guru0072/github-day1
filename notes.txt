@@ -13,3 +13,5 @@ This change is done from feature practice branch.
 practicing undo and recovery in Git.
 
 Temporary work: will stash this change.
+
+soft reset practice line.
