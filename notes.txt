@@ -17,5 +17,3 @@ Temporary work: will stash this change.
 soft reset practice line.
 
 Mixed reset practice line.
-
-This commit will be reverted.
