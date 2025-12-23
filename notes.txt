@@ -24,3 +24,5 @@ Local change before conflict simulation
 Remote change made directly from UI.
 
 recovery drill: first change.
+
+recovery drill: second change.
