@@ -18,4 +18,8 @@ soft reset practice line.
 
 Mixed reset practice line.
 
+
 Local change before conflict simulation
+
+Remote change made directly from UI.
+
